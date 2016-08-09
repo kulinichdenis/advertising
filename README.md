@@ -1,6 +1,6 @@
 # advertising
-git clone 
-cd advertising
-npm install
-gulp
-localhost:8080
+#git clone 
+#cd advertising
+#npm install
+#gulp
+#localhost:8080
