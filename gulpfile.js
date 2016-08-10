@@ -6,7 +6,7 @@ var connect = require('gulp-connect');
 var sass = require('gulp-sass');
 
 gulp.task('js', function(){
-	return browserify('./app/js/app.js')
+	return browserify('./app/js/main.js')
 	.bundle()
 	.on('error', function(e) {
 		qutile.log(e)	
